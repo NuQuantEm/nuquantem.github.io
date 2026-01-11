@@ -4,7 +4,7 @@ layout: splash
 permalink: /
 ---
 
-## Developing Advanced Methods for Nuclear Quantum Effects on Emergent Phenomena in Molecular and Condensed-Phase Systems
+## Developing Advanced Methods for <u>Nu</u>clear <u>Quant</u>um Effects on <u>Em</u>ergent Phenomena in Molecular and Condensed-Phase Systems
 
 <img src="./images/NuQuantEm.png" align="right" width="30%"/>
 
@@ -21,7 +21,7 @@ harvesting, catalysis, and quantum materials.
 Our vision is to uncover how the quantum behavior of light nuclei, such as hydrogen, shapes molecular
 and materials function through its influence on energy, charge, and spin transport.
 
-Our project brings together researchers in theoretical chemistry, quantum dynamics, applied
+This project brings together researchers in theoretical chemistry, quantum dynamics, applied
 mathematics, high-performance computing, and machine learning to build accurate, scalable tools
 to enable predictive insight into quantum-driven phenomena across chemistry and materials science.
 
@@ -41,4 +41,9 @@ processes in electronically excited molecular and material systems?
 
 ## Funding
 
+This research is supported by the U.S. Department of Energy, Office of Science, through the Scientific
+Discovery through Advanced Computing (SciDAC) program, with funding from Basic Energy Sciences
+(BES) and Advanced Scientific Computing Research (ASCR) under FWP 85742 at Pacific Northwest
+National Laboratory.
 
+The NuQuantEm project is part of the [Genesis Mission](https://genesis.energy.gov).
