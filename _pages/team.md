@@ -21,6 +21,7 @@ Our project brings together researchers in theoretical chemistry, quantum dynami
             <li><strong>Bo Peng</strong></li>
             <li><strong>Edo Apra</strong></li>
             <li><strong>Bruce Palmer</strong></li>
+			<li><strong>Sayan Ghosh</strong></li>
             <li><strong>Giridhar Nandipati</strong></li>
 		</ul>
 	</div>
